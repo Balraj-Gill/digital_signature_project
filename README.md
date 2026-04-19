@@ -25,6 +25,7 @@ If a document is modified after signing, verification will fail.
 
 ---
 
+
 ## Technologies Used
 
 - Python 3.12
