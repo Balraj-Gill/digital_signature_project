@@ -1,0 +1,2 @@
+This is a sample document for digital signature testing.
+This document HAS been modified.
